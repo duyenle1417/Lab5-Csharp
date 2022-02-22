@@ -1,0 +1,10 @@
+E:\CODE\C#\Lab5\Lab5\bin\Debug\Lab5.exe.config
+E:\CODE\C#\Lab5\Lab5\bin\Debug\Lab5.exe
+E:\CODE\C#\Lab5\Lab5\bin\Debug\Lab5.pdb
+E:\CODE\C#\Lab5\Lab5\obj\Debug\Lab5.MathGame.resources
+E:\CODE\C#\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+E:\CODE\C#\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+E:\CODE\C#\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+E:\CODE\C#\Lab5\Lab5\obj\Debug\Lab5.exe
+E:\CODE\C#\Lab5\Lab5\obj\Debug\Lab5.pdb
+E:\CODE\C#\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
